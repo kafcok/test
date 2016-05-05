@@ -1,26 +1,23 @@
-body{
+body {
     margin: 0;
 }
+
 .marg {
     margin: 20px;
 }
 
-/*.success-custom{
-    background-color: #add6c8
+.progress-bar-success, .alert-success {
+    background-color: #84ff74;
 }
 
-.info-custom{
-    background-color: #8188d1
+.progress-bar-info, .alert-info {
+    background-color: #9bd1ff;
 }
 
-.warning-custom{
-    background-color: #c3e583
+.progress-bar-warning, .alert-warning {
+    background-color: #fcd06c;
 }
 
-.danger-custom{
-    background-color: #ef8591
-}*/
-
-.success{
-    background-color: rgb(76, 255, 10)
+.progress-bar-danger, .alert-danger {
+    background-color: rgb(255, 106, 106);
 }
