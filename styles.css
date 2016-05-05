@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+.marg {
+    margin: 20px;
+}
+
+/*.success-custom{
+    background-color: #add6c8
+}
+
+.info-custom{
+    background-color: #8188d1
+}
+
+.warning-custom{
+    background-color: #c3e583
+}
+
+.danger-custom{
+    background-color: #ef8591
+}*/
+
+.success{
+    background-color: rgb(76, 255, 10)
+}
